@@ -13,7 +13,6 @@ A real -world security monitoring project stimulating a SOC analyst role at Frot
 
 ##Threats Detected
 #  | Threat                      | Severity               | Status 
----|-----------------------------|------------------------|--------
 1  | Brute Force Attack          | Critical               | Detected
 2  | Privilege Escalation        | Critical               | Detected
 3  | Data Exfiltration           | High                   | Detected
